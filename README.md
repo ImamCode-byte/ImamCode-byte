@@ -5,7 +5,10 @@
 <br/>
 
 <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=14b8a6&labelColor=0b1220" alt="Followers" />
-<img src="https://img.shields.io/badge/Status-Open%20for%20collab-14b8a6?style=for-the-badge&labelColor=0b1220" alt="Status" />
+<img src="https://img.shields.io/badge/Status-Open%20for%20collab-14b8a6?style=for-the-badge&labelColor=0b1220" alt="<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/5292f617-0507-44df-bf0d-ed4ead4cc5b7" />
+<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/f0131623-dbc4-4579-b47c-5fd76560b024" />
+<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/622474fa-40a5-42f3-8484-10181c67928f" />
+Status" />
 
 <br/><br/>
 
@@ -109,12 +112,8 @@ Proyek saya berangkat dari kebutuhan lapangan: absensi, akademik, keuangan organ
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">Statistik GitHub</h2>
 
-<div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=0b1220&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&border_color=1e293b&border_radius=14&count_private=true" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=0b1220&title_color=14b8a6&text_color=c9d1d9&border_color=1e293b&border_radius=14" alt="Top languages" />
 
 </div>
 
