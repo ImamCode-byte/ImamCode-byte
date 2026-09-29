@@ -1,45 +1,78 @@
+<!-- BANNER HEADER ANIMASI -->
 <div align="center">
-  <h1>🚀 mamCode Developer</h1>
-  <p><em>Crafting Code • Connecting Devices • Creating Solutions</em></p>
-  <p>Halo, gue <b>[Nama Kamu]</b> — otak di balik layar!</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=mamCode%20Developer&fontSize=60&fontAlignY=35&desc=Crafting%20Code%20•%20Connecting%20Devices%20•%20Creating%20Solutions&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
----
-
-### 👨‍💻 Tentang Gue & mamCode
-
-Sebagai mahasiswa IT (dengan target lulus 2027 dan IPK 3.80 🎯), gue ngebangun **mamCode Developer** sebagai *digital playground* buat ngulik teknologi dan merancang solusi beneran. Mulai dari bikin *layout* web yang *pixel-perfect* sampai ngerakit sistem *hardware* IoT, semuanya dikerjain di sini.
-
-- 🎓 **Fokus Saat Ini:** Ngerjain berbagai *project* sistem akademik kampus dan riset teknologi terapan.
-- 💻 **Web Dev:** Suka banget mainan **Front-End** (Tailwind CSS, CSS Grid) dan ngerancang **Database Schema** (MySQL/PHP).
-- 🔌 **IoT & Hardware:** Sering ngoprek mikrokontroler (ESP32) dikombinasiin sama logika *Fuzzy* buat bikin alat pintar.
-- 🔬 **AI & Riset:** Lagi rajin eksplorasi **Natural Language Processing (NLP)** pakai Python dan **Computer Vision** via MATLAB.
-- 🎮 *Fun fact*: mamCode juga pernah nge-*design* *web game puzzle* tebak kata untuk *desktop*!
-- 📫 Punya ide *project* gokil atau mau kolaborasi bareng mamCode Developer? DM gue di [Link LinkedIn Kamu] atau *drop email* ke [Email Kamu].
-
-### 🛠️ Tech Stack & Tools
-
-**Front-End & Web:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-**Data, AI & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-### 📊 Radar Statistik mamCode
-
+<!-- SUBTITLE DENGAN EFEK MENGETIK -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8b949e" alt="Top Languages" width="48%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🎓+Informatics+Engineering+Student;💻+Front-End+&+Database+Dev;🔌+IoT+Explorer+(ESP32+%2B+Fuzzy);🔬+AI,+NLP,+&+Computer+Vision" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- LAYOUT DUA KOLOM (KIRI ABOUT ME, KANAN STATISTIK) -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- KOLOM KIRI: TENTANG GUE -->
+    <td width="55%" valign="top" style="border: none;">
+      <h3>👨‍💻 Siapa di balik mamCode?</h3>
+      <p>Halo, gue <b>[Nama Kamu]</b>! Mahasiswa IT (target lulus 2027, IPK 3.80 🎯). <b>mamCode Developer</b> adalah <i>digital playground</i> gue buat ngubah barisan kode jadi solusi nyata.</p>
+      <ul style="list-style-type: none;">
+        <li>🚀 <b>Fokus:</b> Sistem akademik kampus & Riset teknologi terapan.</li>
+        <li>🎨 <b>Web:</b> Tailwind, CSS Grid, PHP, MySQL.</li>
+        <li>🤖 <b>IoT & AI:</b> Mikrokontroler ESP32, Python (NLP), MATLAB (CV).</li>
+        <li>🎮 <b>Fun Fact:</b> Pernah bikin <i>web game puzzle</i> buat <i>desktop</i>!</li>
+      </ul>
+    </td>
+    <!-- KOLOM KANAN: STATISTIK RADAR -->
+    <td width="45%" valign="top" style="border: none;">
+       <h3>🔥 Radar mamCode</h3>
+       <a href="https://github.com/USERNAME_GITHUB_LU">
+         <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="100%" />
+       </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- BAGIAN SKILL (MENGGUNAKAN ICON MODERN BERWARNA) -->
+<div align="center">
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <p>Senjata utama yang biasa dipakai mamCode Developer:</p>
+  <a href="https://skillicons.dev">
+    <!-- Icon otomatis dari skillicons.dev (Sangat berwarna dan elegan) -->
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,php,mysql,python,matlab,figma,arduino,vscode,github,git&perline=6" />
+  </a>
+</div>
+
+<br/>
+
+<!-- BAHASA PEMROGRAMAN TERBANYAK DIGUNAKAN -->
+<div align="center">
+  <h3>🏆 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="350px" />
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- SOSIAL MEDIA / KONTAK (BADGE WARNA-WARNI) -->
+<div align="center">
+  <h3>📫 Let's Connect & Collaborate!</h3>
+  <p>Punya ide gokil atau butuh bantuan <i>project</i>? Sini ngobrol bareng mamCode!</p>
+  <p>
+    <a href="mailto:[Email Kamu]">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="[Link LinkedIn Kamu]">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="[Link Instagram Kamu]">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 </div>
