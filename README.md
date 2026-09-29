@@ -6,8 +6,7 @@
 
 <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=14b8a6&labelColor=0b1220" alt="Followers" />
 <img src="https://img.shields.io/badge/Status-Open%20for%20collab-14b8a6?style=for-the-badge&labelColor=0b1220" alt="<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/5292f617-0507-44df-bf0d-ed4ead4cc5b7" />
-<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/f0131623-dbc4-4579-b47c-5fd76560b024" />
-<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/622474fa-40a5-42f3-8484-10181c67928f" />
+
 Status" />
 
 <br/><br/>
