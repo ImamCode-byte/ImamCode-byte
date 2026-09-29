@@ -25,7 +25,7 @@
 
   <!-- left content -->
   <text x="70" y="72" font-family="'Courier New', Consolas, monospace" font-size="14" letter-spacing="4" fill="#5eead4">INFORMATICS STUDENT  /  UNIVERSITAS MADURA</text>
-  <text x="66" y="152" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="84" font-weight="800" fill="url(#name)">mamCode Developer</text>
+  <text x="66" y="152" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="84" font-weight="800" fill="url(#name)">mamCode</text>
   <text x="70" y="196" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="500" fill="#ccfbf1">mamCode <tspan fill="#14b8a6">|</tspan> Web &amp; Mobile Developer</text>
 
   <g font-family="'Courier New', Consolas, monospace" font-size="17" fill="#99f6e4">
