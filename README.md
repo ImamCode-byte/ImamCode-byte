@@ -1,104 +1,64 @@
-<!-- HEADER: VEKTOR BANNER FULL WIDTH -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=1&height=220&section=header&text=mamCode%20Developer&fontSize=65&fontAlignY=45&desc=Crafting%20Code%20%E2%80%A2%20Connecting%20Devices%20%E2%80%A2%20Creating%20Solutions&descAlignY=70&descSize=18&animation=twinkling" width="100%" alt="mamCode Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=210&section=header&text=mamCode%20Developer&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Membangun%20sistem%20web%20yang%20rapi%2C%20cepat%2C%20dan%20berguna&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="mamCode Developer" />
 </div>
 
-<!-- TAGLINE & TYPING EFFECT -->
 <div align="center">
-  <h3>
-    <i>"Transforming complex logic into seamless digital experiences."</i>
-  </h3>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F92672&center=true&vCenter=true&width=800&lines=🎓+IT+Student+Aiming+for+3.80+GPA+in+2027;💻+Responsive+Web+&+Database+Architecture;🔌+IoT+Hardware+&+Fuzzy+Logic+Implementation;🔬+NLP+Python+&+MATLAB+Computer+Vision;🎮+Desktop+Web+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=560&lines=Informatics+Student+%7C+Web+Developer;PHP+%C2%B7+MySQL+%C2%B7+Node.js+%C2%B7+Bootstrap;Bikin+sistem+yang+benar-benar+dipakai" alt="Typing animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_LU&label=Profile+views&color=14b8a6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/USERNAME_LU?label=Followers&style=flat-square&color=14b8a6&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20collab-14b8a6?style=flat-square&labelColor=0d1117" alt="Status" />
+</div>
+
+<br/>
+
+### 👨‍💻 Tentang Imam (mamCode Developer)
+Halo! Aku **Imam**, mahasiswa Informatika di Universitas Madura (target IPK 3.80! 🎯). Aku suka membangun sistem berbasis web dari nol sampai jalan di lapangan. Fokus utamaku ada di *backend* dan aplikasi web praktis: sistem informasi akademik, *dashboard*, dan *tools* yang dipakai orang setiap hari. Aku lebih suka kode yang sederhana, bersih, dan mudah dirawat daripada yang kelihatan rumit.
+
+- 🔭 **Sedang eksplorasi:** REST API, Docker, dan arsitektur *database* cerdas.
+- 💻 **Sedang dikerjakan:** Sistem Informasi Sekolah & Riset IoT (ESP32 + Fuzzy Logic).
+- 💬 **Ayo ngobrol soal:** Web Development, IoT, NLP, dan Sistem Informasi.
+- 📫 **Kolaborasi:** Selalu terbuka untuk *project* keren, langsung kabari aja!
+
+<br/>
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,tailwind,bootstrap,git,github,linux,vscode,python,matlab&perline=7&theme=dark" alt="Tech stack" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Statistik GitHub</h3>
+  <a href="https://github.com/USERNAME_LU">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&hide_border=false&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&border_color=21262d&border_radius=10&count_private=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/USERNAME_LU">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&border_color=21262d&border_radius=10&hide_border=false" alt="Top languages" />
   </a>
 </div>
 
 <br/>
 
-<!-- GRID SECTION 1: ABOUT & RADAR (LAYOUT MAJALAH KIRI-KANAN) -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
-      <h2 align="center">🧠 Executive Summary</h2>
-      <p align="justify">
-        Di balik <b>mamCode Developer</b>, saya merancang ekosistem digital dari hulu ke hilir. Berangkat dari latar belakang Teknik Informatika, saya mengkombinasikan antarmuka visual yang presisi dengan logika <i>backend</i> yang solid.
-      </p>
-      <p align="justify">
-        Fokus utama saya saat ini adalah pengembangan Sistem Informasi Akademik yang terintegrasi, riset teknologi terapan (IoT dengan ESP32), serta eksplorasi kecerdasan buatan melalui pemrosesan bahasa alami (NLP) dan deteksi objek.
-      </p>
-      <blockquote>
-        💡 <i>Setiap baris kode dan komponen hardware dirangkai untuk memberikan solusi nyata, bukan sekadar teori.</i>
-      </blockquote>
-    </td>
-    <td width="45%" valign="top" style="border: none; text-align: center;">
-      <h2 align="center">📊 Dev Analytics</h2>
-      <a href="https://github.com/USERNAME_GITHUB_LU">
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+### ⚡ Fokus Utama mamCode
+- **🌐 Web & Sistem Informasi:** Aplikasi berbasis PHP, MySQL, dan Node.js dengan antarmuka yang bersih dan responsif.
+- **⚙️ Otomasi & Integrasi:** Menghubungkan sistem dengan layanan lain seperti notifikasi, pemrosesan citra, dan perangkat keras IoT.
 
 <br/>
 
-<!-- GRID SECTION 2: TECH STACK MATRIX (TAMPILAN PANEL GRAFIS) -->
-<h2 align="center">⚙️ Core Competencies Matrix</h2>
-<table width="100%" align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <h3>🎨 UI / UX & Front-End</h3>
-      <p><i>Tailwind CSS • CSS Grid • HTML5</i></p>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark" alt="Frontend" />
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <h3>⚙️ Back-End & Database</h3>
-      <p><i>PHP (URL Rewriting) • MySQL</i></p>
-      <img src="https://skillicons.dev/icons?i=php,mysql,regex,linux&theme=dark" alt="Backend" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <br/>
-      <h3>🔌 Hardware & IoT</h3>
-      <p><i>ESP32 • Fuzzy Logic • Sensors</i></p>
-      <img src="https://skillicons.dev/icons?i=arduino,c,cpp&theme=dark" alt="IoT" />
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <br/>
-      <h3>🧠 AI & Computer Vision</h3>
-      <p><i>Python (NLP/ECS) • MATLAB (Viola-Jones)</i></p>
-      <img src="https://skillicons.dev/icons?i=python,matlab,pycharm,jupyter&theme=dark" alt="AI" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📫 Kontak & Jaringan</h3>
+  <a href="mailto:[EMAIL_KAMU]"><img src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/[IG_KAMU]"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=14b8a6" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/[LINKEDIN_KAMU]"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=14b8a6" alt="LinkedIn" /></a>
+</div>
 
-<br/>
-
-<!-- GRID SECTION 3: TOP LANGUAGES & CONNECT -->
-<table width="100%" align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=donut&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" width="100%" />
-    </td>
-    <td width="60%" align="center" valign="middle" style="border: none;">
-      <h2>🚀 Inisiasi Koneksi</h2>
-      <p>Mari diskusikan arsitektur <i>software</i>, rancangan <i>hardware</i>, atau kolaborasi <i>project</i> inovatif selanjutnya bersama <b>mamCode Developer</b>.</p>
-      <br/>
-      <a href="mailto:[Email Kamu]">
-        <img src="https://img.shields.io/badge/Email-Drop_a_Message-F92672?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="[Link LinkedIn Kamu]">
-        <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="[Link Portfolio/Web Jika Ada]">
-        <img src="https://img.shields.io/badge/Website-mamCode_HQ-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- FOOTER -->
-<hr style="border: 1px solid #F92672; margin-top: 30px; margin-bottom: 20px;" />
-<p align="center" style="color: gray;">
-  <i>Designed & Engineered by mamCode Developer © 2026.</i>
-</p>
+<div align="center">
+  <br/>
+  <sub><i>Kode yang baik itu tenang: mudah dibaca, mudah dirawat, dan bikin hidup orang lain lebih ringan.</i></sub>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=100&section=footer" width="100%" alt="footer" />
+</div>
