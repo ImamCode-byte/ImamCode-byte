@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Imam - mamCode, Web and Mobile Developer" />
+<img src="assets/header.svg" width="100%" alt="mamCode Developer - mamCode, Web and Mobile Developer" />
 
 <div align="center">
 
