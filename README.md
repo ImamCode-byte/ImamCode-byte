@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=14b8a6&labelColor=0b1220" alt="Followers" />
 <img src="https://img.shields.io/badge/Status-Open%20for%20collab-14b8a6?style=for-the-badge&labelColor=0b1220" alt="<img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/5292f617-0507-44df-bf0d-ed4ead4cc5b7" />
 
-Status" />
-
 <br/><br/>
 
 **Web** &nbsp;·&nbsp; **Mobile** &nbsp;·&nbsp; **IoT** &nbsp;·&nbsp; **Sistem Informasi**
